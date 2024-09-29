@@ -6,9 +6,8 @@ I am a high school student at [Thomas Jefferson High School for Science and Tech
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssbdragonfly&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ssbdragonfly&theme=dark&hide_border=true" width="400">
-</p>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ssbdragonfly&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+</details>
 
 ---
