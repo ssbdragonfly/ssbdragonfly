@@ -7,4 +7,3 @@ I am a high school student at [Thomas Jefferson High School for Science and Tech
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ssbdragonfly&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 </details>
----
